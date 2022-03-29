@@ -1,2 +1,2 @@
-# Base-de-dados-hospitalar-de-doen-as-infectocontagiosas-
+# Base-de-dados-hospitalar-de-doencas-infectocontagiosas-
 POO Project
